@@ -8,4 +8,4 @@
 * 🎀 Interests: data, jokes, horror crime thriller tv shows/movies, mechanical keyboards, DevOps, succulents 
 * 📫 Reach me at hello@lorna.dev
 * 🌎 Check out my website lorna.dev
-* ⚡ Fun fact: Metal plate in my collar bone
+* ⚡ Fun fact: Metal plate on my collar bone
