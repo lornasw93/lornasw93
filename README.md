@@ -1,16 +1,10 @@
 ### Hi there 👋
-
-<!--
-**lornasw93/lornasw93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: hello@lorna.dev
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+👩🏻 Founding Member @ https://www.hiretechladies.com #TechLadies
+✨ Mentorship, volunteering
+🧾 Active blogger https://dev.to/lornasw93 all-things dev
+💻 Tech stack: C#, SQL, Node.js, Angular 11
+🎯 Next to learn: mongodb, docker
+🎀 Interests: data, jokes, horror crime thriller tv shows/movies, mechanical keyboards, DevOps, succulents 
+📫 Reach me at hello@lorna.dev
+⚡ Fun fact: Metal plate in my collar bone
