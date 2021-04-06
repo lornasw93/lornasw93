@@ -1,7 +1,8 @@
 ### Hi there 👋
  
 * 👩🏻 Founding Member @ https://www.hiretechladies.com #TechLadies
-* ✨ Mentorship, volunteering
+* 👩🏻‍🏫 CFG Fellowship Apr 6 21 - 16 Jun 21
+* ✨Mentorship since Mar 21, volunteering
 * 🧾 Active blogger https://dev.to/lornasw93 all-things dev
 * 💻 Tech stack: C#, SQL, Node.js, Angular 11
 * 🎯 Next to learn: mongodb, docker
