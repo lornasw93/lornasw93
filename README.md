@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-* 👩🏻‍🏫 CFG Fellowship Apr 6 21 - 16 Jun 21
+* 👩🏻‍🏫 Keen in self-investment
 * 👩🏻 Founding Member @ https://www.hiretechladies.com #TechLadies
-* ✨ Mentorship since Mar 21, volunteering
 * 🧾 Active blogger https://dev.to/lornasw93 all-things dev
 * 💻 Tech stack: C#, SQL, Node.js, Angular 11
-* 🎯 Next to learn: mongodb, docker
+* 🎯 Next to learn: docker (started), tdd (started)
 * 🎀 Interests: data, spreadsheets, jokes, horror crime thriller tv shows/movies, mechanical keyboards, DevOps, succulents 
 * 📫 Reach me at hello@lorna.dev
-* 🌎 Check out my website https://lorna.dev
-* ⚡ Fun fact: Metal plate on my collar bone
+* 🌎 Check out my links https://linktr.ee/lornasw93
+* ⚡ Fun fact: Metal plate on right collar bone
