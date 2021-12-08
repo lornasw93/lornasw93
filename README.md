@@ -1,7 +1,7 @@
 ### Hi there 👋
 
+* 👋 Software Engineer, Co-Founder and CTO
 * 👩🏻‍🏫 Keen in self-investment
-* 👩🏻 Founding Member @ https://www.hiretechladies.com #TechLadies
 * 🧾 Active blogger https://dev.to/lornasw93 all-things dev
 * 💻 Tech stack: C#, SQL, Node.js, Angular 11
 * 🎯 Next to learn: docker (started), tdd (started)
