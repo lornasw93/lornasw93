@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 👋 Software Engineer, Co-Founder and CTO
+* 👋 Software Engineer
 * 👩🏻‍🏫 Keen in self-investment
 * 🧾 Active blogger https://dev.to/lornasw93 all-things dev
 * 💻 Tech stack: C#, SQL, Node.js, Angular 11
