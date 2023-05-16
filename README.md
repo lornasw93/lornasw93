@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 👋 Senior Software Developer
+* 👋 Senior Software Engineer
 * 👩🏻‍🏫 Keen in self-investment
 * 🧾 Active blogger on all-things dev (prev. https://dev.to/lornasw93 but now on new site https://lorna.dev)
 * 💻 Tech stack: C#, .NET 6, SQL, Node.js, Angular 12+
