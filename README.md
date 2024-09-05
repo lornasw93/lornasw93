@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-* 👋 Senior Software Engineer @ Avenue3 / Lead Instructor / STEM Ambassador
+* 👋 Senior Software Engineer / STEM Ambassador
 * 👩🏻‍🏫 Keen in self-investment
-* 🧾 Active blogger on all-things dev (prev. https://dev.to/lornasw93 but now on new site https://lorna.dev)
-* 💻 Tech stack: C#, .NET 6, SQL, Node.js, Angular, Azure
+* 🧾 Active blogger on all-things dev (prev. https://dev.to/lornasw93)
+* 💻 Tech stack: C#, .NET 6+, SQL, Node.js, Angular, Azure
 * 🎀 Interests: data, spreadsheets, jokes, horror crime thriller tv shows/movies, mechanical keyboards, DevOps, succulents 
 * 📫 Reach me at hey@lorna.dev
 * 🌎 Check out my website https://lorna.dev
